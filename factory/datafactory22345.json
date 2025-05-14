@@ -1,0 +1,9 @@
+{
+	"name": "datafactory22345",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7e66093-ebfa-4031-9994-460814aeb1fd",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
